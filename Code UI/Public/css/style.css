@@ -1,0 +1,11 @@
+.box-form,
+box-table {
+	margin: 2%;
+}
+
+.box-form h5,
+box-table h5 {
+	font-weight: bold;
+	text-align: center;
+	margin: 2%;
+}
